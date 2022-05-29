@@ -1,0 +1,8 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="3columns" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">
+<body>
+    <referenceContainer name="content">         
+        <block class="Marcgento\Test\Block\Index" name="grid" template="Marcgento_Test::grid/success.phtml" cacheable="false">
+        </block>
+    </referenceContainer>
+</body>
+</page>
