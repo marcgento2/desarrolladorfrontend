@@ -1,0 +1,9 @@
+<theme xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Configure/etc/theme.xsd">
+    <title>Mi Primer Tema Marcgento</title>
+    <parent>Magento/blank</parent>
+    <!--
+    <media>
+        <preview_image>media/preview.jpg</preview_image>
+    </media>
+    -->
+</theme>
